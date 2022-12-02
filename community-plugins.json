@@ -5377,6 +5377,6 @@
         "name": "Auto-Tag & Ref",
         "author": "Luessiaw",
         "description": "Auto tag/numbering an equation and refer to it like in latex.",
-        "branch": "master"
+        "repo": "Luessiaw/Obsidan-Auto-Tag-And-Reference"
     }
 ]
